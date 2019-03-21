@@ -1,0 +1,13 @@
+<script language="JavaScript">
+var password;
+var pass1="PASSWORD";
+password=prompt('Enter your password in order to view this page!',' ');
+if (password==pass1) alert('Correct password, OK to enter!');
+else {
+  window.location="SITE-LINK";
+}
+</script>
+
+Catatan:
+- Ganti teks berwarna merah dengan versi Anda, terutama PASSWORD.
+- Ganti teks SITE-LINK dengan URL Page/Halaman Blogspot Anda.
